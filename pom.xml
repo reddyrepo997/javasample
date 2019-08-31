@@ -72,4 +72,11 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distrubutionmanagement>
+   <repository>
+	<id>deployment</id>
+	     <name>Internal Release</name>
+		<url>http://13.233.168.206:8081/repository/nexus-firstwar/<url>
+   </repository>
+</distrubutionmanagement>
 </project>
